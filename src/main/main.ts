@@ -81,8 +81,8 @@ const createWindow = async () => {
     },
     titleBarStyle: 'hidden',
     titleBarOverlay: {
-      color: '#1d2837',
-      symbolColor: '#74b1be',
+      color: '#1f2937',
+      symbolColor: '#4b5563',
     },
   });
 
